@@ -1,5 +1,8 @@
 _repo: The-training-of-teachers-in-the-United-States-of-America_69766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69766-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bramwell, Amy Blanche
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55410'
     url: http://www.gutenberg.org/2009/agents/55410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69766#The-training-of-teachers-in-the-United-States-of-America
 gutenberg_issued: '2023-01-11'
 identifiers:
   gutenberg: '69766'
